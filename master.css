@@ -55,6 +55,35 @@ color: #fff;
     opacity: 0.5;
 }
 
+.nav-bottom{
+    width: 40px;
+    height: 80px;
+    display: flex;
+    padding: 4rem;
+    margin-left: 30rem;
+    margin-top: 8rem;
+}
+
+
+.nav-bottom img{
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+.nav-bottom #blue{
+    margin: 0 1rem;
+}
+.nav-bottom #white{
+    margin: 0 0.5rem;
+}
+.nav-bottom #black{
+    margin: 0 0.5rem;
+}
+
+
+
+
 
 @media (min-width: 800px){
     .header{
